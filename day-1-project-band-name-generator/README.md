@@ -7,7 +7,7 @@ that value into a variable. It does the same thing for your pet's name (or any o
 
 Afterward, the program outputs a String, concatenating those variables to make up a name for a band.
 
-## Resources used
+## Resources
 
 - [input()](https://docs.python.org/3/library/functions.html?highlight=print#input)
 - [print()](https://docs.python.org/3/library/functions.html?highlight=print#print)
