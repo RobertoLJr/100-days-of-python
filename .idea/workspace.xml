@@ -7,43 +7,6 @@
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-1-project-band-name-generator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-001-project-band-name-generator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-1-project-band-name-generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-001-project-band-name-generator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-10-calculator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-010-calculator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-10-calculator/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-010-calculator/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-10-calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-010-calculator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-11-blackjack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-011-blackjack/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-11-blackjack/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-011-blackjack/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-11-blackjack/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-011-blackjack/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-12-the-number-guessing-game/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-012-the-number-guessing-game/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-12-the-number-guessing-game/alternative_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-012-the-number-guessing-game/alternative_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-12-the-number-guessing-game/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-012-the-number-guessing-game/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-12-the-number-guessing-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-012-the-number-guessing-game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-13-debugging/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-013-debugging/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-14-higher-or-lower/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-014-higher-or-lower/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-14-higher-or-lower/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-014-higher-or-lower/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-14-higher-or-lower/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-014-higher-or-lower/game_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-14-higher-or-lower/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-014-higher-or-lower/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2-project-tip-calculator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-002-project-tip-calculator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2-project-tip-calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-002-project-tip-calculator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-3-project-dragon-adventure/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-003-project-dragon-adventure/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-3-project-dragon-adventure/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-003-project-dragon-adventure/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-4-rock-paper-scissors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-004-rock-paper-scissors/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-4-rock-paper-scissors/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-004-rock-paper-scissors/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-5-project-password-generator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-005-project-password-generator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-5-project-password-generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-005-project-password-generator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-6-escaping-the-maze/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-006-escaping-the-maze/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-6-escaping-the-maze/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-006-escaping-the-maze/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-7-hangman/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-007-hangman/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-7-hangman/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-007-hangman/hangman_art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-7-hangman/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-007-hangman/hangman_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-7-hangman/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-007-hangman/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-8-project-caesar-cipher/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-008-project-caesar-cipher/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-8-project-caesar-cipher/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-008-project-caesar-cipher/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-8-project-caesar-cipher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-008-project-caesar-cipher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-9-secret-auction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-009-secret-auction/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-9-secret-auction/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-009-secret-auction/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-9-secret-auction/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-009-secret-auction/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
