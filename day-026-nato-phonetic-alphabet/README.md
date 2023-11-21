@@ -25,4 +25,3 @@ Finally, it produces as output a list of codes for each character in the given s
 
 - [Pandas API Reference](https://pandas.pydata.org/docs/reference/index.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- 
