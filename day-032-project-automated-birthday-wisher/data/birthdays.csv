@@ -1,0 +1,5 @@
+name,email,year,month,day
+Person_1,email_1@domain.com,1980,01,01
+Person_2,email_2@domain.com,1990,03,03
+Person_3,email_3@domain.com,2000,06,06
+Person_4,email_4@domain.com,2010,12,31
