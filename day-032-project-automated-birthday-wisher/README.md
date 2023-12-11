@@ -18,3 +18,8 @@ of dictionary comprehension, and manage sensitive information as environment var
 - [pandas](https://pandas.pydata.org/docs/)
 - [random](https://docs.python.org/3/library/random.html)
 - [smtplib](https://docs.python.org/3/library/smtplib.html)
+
+### Miscellanea
+
+This code (and others)
+can be configured to execute every day at a certain time by using https://www.pythonanywhere.com/!
