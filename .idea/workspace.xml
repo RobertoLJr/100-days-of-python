@@ -42,13 +42,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.data.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
     "Python.sandbox.executor": "Run",
+    "Python.ui.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/code/100-days-of-python/day-032-project-automated-birthday-wisher/data",
-    "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -73,11 +76,11 @@
       <recent name="E:\code\100-days-of-python\day-024-snake-game-improved" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-034-gui-trivia-quiz\img" />
+      <recent name="E:\code\100-days-of-python\day-034-gui-trivia-quiz" />
       <recent name="E:\code\100-days-of-python\day-033-project" />
       <recent name="E:\code\100-days-of-python\day-032-project-automated-birthday-wisher" />
       <recent name="E:\code\100-days-of-python\day-031-project-flash-card-app\img" />
-      <recent name="E:\code\100-days-of-python\day-031-project-flash-card-app\data" />
-      <recent name="E:\code\100-days-of-python\day-031-project-flash-card-app" />
     </key>
   </component>
   <component name="RunManager">
@@ -104,11 +107,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
