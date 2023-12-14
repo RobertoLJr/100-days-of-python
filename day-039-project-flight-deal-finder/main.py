@@ -27,7 +27,10 @@ for destination in sheet_data:
         date_to=six_months_from_today
     )
 
-    if flight is not None and flight.price <= destination["lowestPrice"]:
+    if flight is None:
+        continue
+
+    if flight.price <= destination["lowestPrice"]:
         notification_manager.send_notification(
             price=flight.price,
             departure_city_name=flight.origin_city,

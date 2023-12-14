@@ -8,6 +8,8 @@ is lower than the one provided by the user, a Telegram bot sends a notification 
 requirements and resources for proper usage. As of the current implementation, modifications are expected to be
 made in-code, so there is room for improvement in the future via GUIs and entries.
 
+For simplicity, the program only searches for **direct flights**.
+
 ## Requirements
 
 - A Google Sheets doc with the columns `City`, `IATA Code`, and `Lowest Price` (see [template](./template_sheet/Flight%20Deals.xlsx)).
@@ -40,6 +42,12 @@ made in-code, so there is room for improvement in the future via GUIs and entrie
 - [Sheety API Documentation](https://sheety.co/docs)
 - [Tequila Flight Search API Documentation](https://tequila.kiwi.com/portal/docs/tequila_api)
 - [Telegram Bot API Documentation](https://core.telegram.org/bots/api)
+
+### Modules and libraries
+
+- [os](https://docs.python.org/3/library/os.html)
+- [requests](https://requests.readthedocs.io/en/latest/)
+- [smtplib](https://docs.python.org/3/library/smtplib.html)
 
 ### Miscellanea
 
