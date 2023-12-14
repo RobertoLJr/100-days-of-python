@@ -21,6 +21,9 @@ using this program. Then, they can execute it as the following:
 
 After the input, them program should update the sheet with information about Date, Time, Exercise, Duration and Calories, automatically.
 
+Note: doublecheck on Sheety the value for the sheet name because the API sometimes gives it a random arbitrary value
+based on the sheet itself.
+
 ## Resources
 
 ### APIs

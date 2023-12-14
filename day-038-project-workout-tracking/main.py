@@ -7,7 +7,7 @@ NUTRITIONIX_KEY = os.environ.get("NUTRITIONIX_KEY")
 
 SHEETY_USERNAME = os.environ.get("SHEETY_USERNAME")
 SHEETY_PROJECT = os.environ.get("SHEETY_PROJECT")
-SHEETY_SHEET = os.environ.get("SHEETY_SHEET")
+SHEETY_SHEET = os.environ.get("SHEETY_SHEET") # Doublecheck this because Sheet sometimes creates an arbitrary value
 SHEET_ENDPOINT = f"https://api.sheety.co/{SHEETY_USERNAME}/{SHEETY_PROJECT}/{SHEETY_SHEET}"
 
 BEARER_TOKEN = os.environ.get("BEARER_TOKEN")
