@@ -7,8 +7,6 @@
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-039-project-flight-deal-finder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-039-project-flight-deal-finder/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-039-project-flight-deal-finder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-039-project-flight-deal-finder/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.data.executor": "Run",
     "Python.main.executor": "Run",
     "Python.notification_manager.executor": "Run",
@@ -53,8 +53,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/code/100-days-of-python/day-040-project-flight-club",
-    "settings.editor.selected.configurable": "terminal"
+    "last_opened_file_path": "E:/code/100-days-of-python/day-039-project-flight-deal-finder/template_sheet",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -72,18 +72,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-039-project-flight-deal-finder\template_sheet" />
       <recent name="E:\code\100-days-of-python\day-040-project-flight-club" />
       <recent name="E:\code\100-days-of-python\day-032-project-automated-birthday-wisher\data" />
       <recent name="E:\code\100-days-of-python" />
       <recent name="E:\code\100-days-of-python\day-028-pomodoro-app\sound" />
-      <recent name="E:\code\100-days-of-python\day-028-pomodoro-app\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-041-project-movie-ranking" />
       <recent name="E:\code\100-days-of-python\day-040-project-flight-club" />
       <recent name="E:\code\100-days-of-python\day-039-flight-deal-finder\template_sheet" />
       <recent name="E:\code\100-days-of-python\day-039-flight-deal-finder\solution" />
       <recent name="E:\code\100-days-of-python\day-039-flight-deal-finder" />
-      <recent name="E:\code\100-days-of-python\day-036-project-stock-trading-news-alert" />
     </key>
   </component>
   <component name="RunManager">
