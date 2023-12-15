@@ -6,4 +6,4 @@ Continuing the web development introduction sessions, this project contains only
 
 ## Resources
 
-- [HTML: HypterText Markup Language by mdn web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML: HyperText Markup Language by mdn web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
