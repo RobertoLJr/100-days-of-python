@@ -7,7 +7,6 @@
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-042-project-birthday-invite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-042-project-birthday-invite/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +79,11 @@
       <recent name="E:\code\100-days-of-python\day-028-pomodoro-app\sound" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-045-project-100-must-watch-movies-list" />
       <recent name="E:\code\100-days-of-python\day-043-project-colour-vocab-website\solution" />
       <recent name="E:\code\100-days-of-python\day-043-project-colour-vocab-website" />
       <recent name="E:\code\100-days-of-python\day-041-project-movie-ranking" />
       <recent name="E:\code\100-days-of-python\day-040-project-flight-club" />
-      <recent name="E:\code\100-days-of-python\day-039-flight-deal-finder\template_sheet" />
     </key>
   </component>
   <component name="RunManager">
