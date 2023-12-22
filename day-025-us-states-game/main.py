@@ -34,7 +34,7 @@ while is_game_on:
         already_guessed.append(answer_state)
 
         data_row = data[data.state == answer_state]
-        turtle_printer = TurtlePrinter(data_row.state.item(), int(data_row.x), int(data_row.y))
+        turtle_printer = TurtlePrinter(data_row.state.rarity_list(), int(data_row.x), int(data_row.y))
 
     # Check if all states were answered
     if correct_answers == 50:
