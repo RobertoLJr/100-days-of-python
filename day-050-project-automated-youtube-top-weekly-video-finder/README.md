@@ -1,4 +1,4 @@
-# Day 50 Project: Automated YouTube Filter
+# Day 50 Project: Automated YouTube Top Weekly Video Finder
 
 ## Concept
 
