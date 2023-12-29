@@ -68,7 +68,7 @@ for listing in listings:
 
     # Find and click the link to send another response
     link_send_another = WebDriverWait(driver, 5).until(EC.element_to_be_clickable(
-        (By.XPATH,FORM_LINK_SEND_ANOTHER_RESPONSE_XPATH)))
+        (By.XPATH, FORM_LINK_SEND_ANOTHER_RESPONSE_XPATH)))
     link_send_another.click()
 
 driver.quit()

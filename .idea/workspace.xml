@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-050-project-automated-youtube-recorder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-050-project-automated-youtube-top-weekly-video-finder/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-050-project-automated-youtube-recorder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-050-project-automated-youtube-top-weekly-video-finder/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-053-data-entry-job-automation/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-053-data-entry-job-automation/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +48,13 @@
     &quot;Python.InternetSpeedBot.executor&quot;: &quot;Run&quot;,
     &quot;Python.WondrousItem.executor&quot;: &quot;Run&quot;,
     &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
     &quot;Python.interaction.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.notification_manager.executor&quot;: &quot;Run&quot;,
     &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
     &quot;Python.sandbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
     &quot;Python.ui.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -84,11 +85,11 @@
       <recent name="E:\code\100-days-of-python\day-028-pomodoro-app\sound" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-054-studies\files" />
       <recent name="E:\code\100-days-of-python\day-053-data-entry-job-automation\example_images" />
       <recent name="E:\code\100-days-of-python\day-045-project-100-must-watch-movies-list" />
       <recent name="E:\code\100-days-of-python\day-043-project-colour-vocab-website\solution" />
       <recent name="E:\code\100-days-of-python\day-043-project-colour-vocab-website" />
-      <recent name="E:\code\100-days-of-python\day-041-project-movie-ranking" />
     </key>
   </component>
   <component name="SharedIndexes">
