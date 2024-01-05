@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-55-project-higher-or-lower-web-game/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-55-project-higher-or-lower-web-game/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/code/100-days-of-python/day-039-project-flight-deal-finder/template_sheet",
+    "last_opened_file_path": "E:/code/100-days-of-python/day-56-project-name-card-website/static/images",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
   }
 }]]></component>
@@ -78,18 +77,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\static\images" />
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\static" />
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\templates" />
       <recent name="E:\code\100-days-of-python\day-039-project-flight-deal-finder\template_sheet" />
       <recent name="E:\code\100-days-of-python\day-040-project-flight-club" />
-      <recent name="E:\code\100-days-of-python\day-032-project-automated-birthday-wisher\data" />
-      <recent name="E:\code\100-days-of-python" />
-      <recent name="E:\code\100-days-of-python\day-028-pomodoro-app\sound" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\code\100-days-of-python\day-054-studies\files" />
-      <recent name="E:\code\100-days-of-python\day-053-data-entry-job-automation\example_images" />
-      <recent name="E:\code\100-days-of-python\day-045-project-100-must-watch-movies-list" />
-      <recent name="E:\code\100-days-of-python\day-043-project-colour-vocab-website\solution" />
-      <recent name="E:\code\100-days-of-python\day-043-project-colour-vocab-website" />
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\static\bg" />
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\static" />
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\templates" />
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\static\icons" />
+      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\static\css" />
     </key>
   </component>
   <component name="SharedIndexes">
