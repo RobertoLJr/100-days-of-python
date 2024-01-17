@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-059-project-bootstrap-blog/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-059-project-bootstrap-blog/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +59,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/code/100-days-of-python/day-060-project-post-request-contact-form",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
+    "last_opened_file_path": "E:/code/100-days-of-python/day-061-advanced-forms-with-flask-wtforms",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -78,18 +78,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-061-advanced-forms-with-flask-wtforms" />
       <recent name="E:\code\100-days-of-python\day-060-project-post-request-contact-form" />
       <recent name="E:\code\100-days-of-python\day-059-project-bootstrap-blog" />
       <recent name="E:\code\100-days-of-python\day-058-startup-website-for-tincat" />
       <recent name="E:\code\100-days-of-python\day-058-startup-website-for-tindog" />
-      <recent name="E:\code\100-days-of-python\day-057-project-blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-061-advanced-forms-with-flask-wtforms" />
       <recent name="E:\code\100-days-of-python\day-059-project-bootstrap-blog\static" />
       <recent name="E:\code\100-days-of-python\day-059-project-bootstrap-blog\templates" />
       <recent name="E:\code\100-days-of-python\day-058-startup-website-for-tindog" />
       <recent name="E:\code\100-days-of-python\day-057-project-blog\templates" />
-      <recent name="E:\code\100-days-of-python\day-56-project-name-card-website\static\bg" />
     </key>
   </component>
   <component name="SharedIndexes">
