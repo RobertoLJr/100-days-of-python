@@ -3,11 +3,9 @@ import requests
 
 app = Flask(__name__)
 
-
 response = requests.get('https://api.npoint.io/3211c5c50d1e05e054a0')
 response.raise_for_status()
 data = response.json()
-print(data)
 
 
 @app.route('/')
@@ -18,7 +16,6 @@ def home():
 @app.route('/about')
 def about():
     return render_template("about.html")
-
 
 
 @app.route('/contact')
