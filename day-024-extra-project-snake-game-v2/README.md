@@ -2,7 +2,7 @@
 
 ## Concept
 
-This project works based on the [Day 21 Project: Snake Game](../day-021-snake-game). However, it brings an
+This project works based on the [Day 21 Project: Snake Game](../day-021-project-snake-game). However, it brings an
 adjustable screen size that draws clearer walls for any screen size. Also, the game saves the user's highest
 score from any previous gameplay in a local file and always show that score whenever a new game is executed.
 

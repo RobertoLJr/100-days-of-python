@@ -24,4 +24,4 @@ The link for _Delete_ removes that entry from the database.
 ### Miscellanea
 
 - [Creating or using requirements.txt](https://docs.google.com/document/d/e/2PACX-1vRIW_TuZ6z0ASjAoxgJgmzjGYLCDx019tKvphaTwK_Za7fnMKywUuXI0-s5wr0nQI_gprm6J6y7L9rL/pub)
-- [DB Browser for SQLite] - Useful for visualizing databases' structures and data.
+- [DB Browser for SQLite](https://sqlitebrowser.org/) - Useful for visualizing databases' structures and data.
