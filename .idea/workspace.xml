@@ -6,42 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-052-dnd-random-wondrous-item-finder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-052-project-dnd-random-wondrous-item-finder/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-052-dnd-random-wondrous-item-finder/WondrousItem.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-052-project-dnd-random-wondrous-item-finder/WondrousItem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-052-dnd-random-wondrous-item-finder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-052-project-dnd-random-wondrous-item-finder/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-053-data-entry-job-automation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-053-project-data-entry-job-automation/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-053-data-entry-job-automation/example_images/custom-form-example.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-053-project-data-entry-job-automation/example_images/custom-form-example.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-053-data-entry-job-automation/example_images/results-in-spreadsheet.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-053-project-data-entry-job-automation/example_images/results-in-spreadsheet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-053-data-entry-job-automation/example_images/zillow-listings.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-053-project-data-entry-job-automation/example_images/zillow-listings.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-053-data-entry-job-automation/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-053-project-data-entry-job-automation/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/images/bizinsider.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/images/bizinsider.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/images/cat-img.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/images/cat-img.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/images/iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/images/iphone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/images/mashable.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/images/mashable.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/images/techcrunch.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/images/techcrunch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/images/tnw.png" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/images/tnw.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-058-startup-website-for-tincat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-058-project-startup-website-for-tincat/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/templates/denied.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/templates/denied.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-advanced-forms-with-flask-wtforms/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/templates/success.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/instance/movie.db" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/instance/movie.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/static/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/templates/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/templates/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-top-10-movies-website/templates/select.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/templates/select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-064-project-top-10-movies-website/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/code/100-days-of-python/day-066-project-restful-api",
+    "last_opened_file_path": "E:/code/100-days-of-python/day-067-project-blog-RESTful-routing",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -113,11 +78,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-067-project-blog-RESTful-routing" />
       <recent name="E:\code\100-days-of-python\day-066-project-restful-api" />
       <recent name="E:\code\100-days-of-python\day-064-top-10-movies-website" />
       <recent name="E:\code\100-days-of-python\day-063-project-virtual-bookshelf" />
       <recent name="E:\code\100-days-of-python\day-062-project-coffee-and-wiki" />
-      <recent name="E:\code\100-days-of-python\day-061-advanced-forms-with-flask-wtforms" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\code\100-days-of-python\day-065-studies-web-design\img" />
@@ -126,6 +91,35 @@
       <recent name="E:\code\100-days-of-python\day-061-advanced-forms-with-flask-wtforms" />
       <recent name="E:\code\100-days-of-python\day-059-project-bootstrap-blog\static" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-days-of-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-067-project-blog-RESTful-routing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day-067-project-blog-RESTful-routing/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
