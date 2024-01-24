@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0972cf8a-244a-458e-9ec4-fdc8e86dbb4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/instance/posts.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/instance/users.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/static/files/cheat_sheet.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-068-project-authentication-with-flask/templates/secrets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-054-studies-flask-cli-decorators/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-054-studies-flask-cli-decorators/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-055-project-higher-or-lower-web-game/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-055-project-higher-or-lower-web-game/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-056-project-name-card-website/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-056-project-name-card-website/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-057-project-blog-templating-page/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-057-project-blog-templating-page/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-059-project-bootstrap-blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-059-project-bootstrap-blog/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-060-project-post-request-contact-form/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-060-project-post-request-contact-form/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-061-project-advanced-forms-with-flask-wtforms/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-062-project-coffee-and-wifi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-062-project-coffee-and-wifi/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-062-project-coffee-and-wifi/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-062-project-coffee-and-wifi/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-063-project-virtual-bookshelf/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-063-project-virtual-bookshelf/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-063-project-virtual-bookshelf/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-063-project-virtual-bookshelf/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-project-top-10-movies-website/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-064-project-top-10-movies-website/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-064-project-top-10-movies-website/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-066-project-cafe-and-wifi-restful-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-066-project-cafe-and-wifi-restful-api/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-066-project-cafe-and-wifi-restful-api/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-066-project-cafe-and-wifi-restful-api/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-067-project-blog-RESTful-routing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day-067-project-blog-RESTful-routing/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-067-project-blog-RESTful-routing/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day-067-project-blog-RESTful-routing/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,28 +40,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.InternetSpeedBot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WondrousItem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interaction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.notification_manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sandbox.executor&quot;: &quot;Run&quot;,
-    &quot;Python.server.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ui.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/code/100-days-of-python/day-068-project&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.InternetSpeedBot.executor": "Run",
+    "Python.WondrousItem.executor": "Run",
+    "Python.data.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.interaction.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.notification_manager.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
+    "Python.sandbox.executor": "Run",
+    "Python.server.executor": "Run",
+    "Python.tests.executor": "Run",
+    "Python.ui.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/code/100-days-of-python/day-069-project-fully-fledged-blog-website/instance",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings sdk-home="C:\Users\Roberto\AppData\Local\Programs\Python\Python312\python.exe">
@@ -108,11 +77,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\100-days-of-python\day-069-project-fully-fledged-blog-website\instance" />
+      <recent name="E:\code\100-days-of-python\day-069-project-fully-fledged-blog-website" />
       <recent name="E:\code\100-days-of-python\day-068-project" />
       <recent name="E:\code\100-days-of-python\day-067-project-blog-RESTful-routing" />
       <recent name="E:\code\100-days-of-python\day-066-project-restful-api" />
-      <recent name="E:\code\100-days-of-python\day-064-top-10-movies-website" />
-      <recent name="E:\code\100-days-of-python\day-063-project-virtual-bookshelf" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\code\100-days-of-python\day-065-studies-web-design\img" />
