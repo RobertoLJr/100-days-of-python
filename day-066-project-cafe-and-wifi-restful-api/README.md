@@ -13,7 +13,7 @@ See the project's [full documentation](https://documenter.getpostman.com/view/29
 
 ### Engines/Frameworks/Modules
 
-- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 
 ### Miscellanea

@@ -13,7 +13,7 @@ to use a simple decorator to execute different functions and print their executi
 ### Flask
 
 - [Flask on PyPI](https://pypi.org/project/Flask/)
-- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 
 ### Command Line Interfaces
 

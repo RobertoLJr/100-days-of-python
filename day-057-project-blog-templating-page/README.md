@@ -11,7 +11,7 @@ the user to the post's page, containing the entire body for complete reading.
 ### Frameworks and Templatings
 
 - [Flask on PyPI](https://pypi.org/project/Flask/)
-- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 - [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
 
 ### Miscellanea

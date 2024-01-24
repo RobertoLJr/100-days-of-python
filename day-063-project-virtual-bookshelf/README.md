@@ -17,7 +17,7 @@ The link for _Delete_ removes that entry from the database.
 ### Engines/Frameworks/Modules
 
 - [Bootstrap Flask](https://bootstrap-flask.readthedocs.io/en/stable/) - Jinja macros for Bootstrap and Flask - Renders Flask-related data/objects to Bootstrap markup HTML more easily.
-- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 - [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 

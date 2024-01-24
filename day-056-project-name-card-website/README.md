@@ -8,7 +8,7 @@ a pre-designed webpage from [HTML5 UP](https://html5up.net/).
 ### Frameworks
 
 - [Flask on PyPI](https://pypi.org/project/Flask/)
-- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 
 ### Miscellanea
 

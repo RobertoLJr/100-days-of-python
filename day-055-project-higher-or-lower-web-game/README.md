@@ -12,7 +12,7 @@ user if their answer is too low, too high or if they found the number.
 ### Frameworks
 
 - [Flask on PyPI](https://pypi.org/project/Flask/)
-- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 
 ### Python Special Attributes
 

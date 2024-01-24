@@ -9,7 +9,7 @@ By empowering it with a database connection, it allows the user to add, edit or 
 
 ### Engines/Frameworks/Modules
 
-- [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 - [FlaskWTF](https://flask-wtf.readthedocs.io/en/1.0.x/) - Integration of Flask and WTForms.
 - [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
