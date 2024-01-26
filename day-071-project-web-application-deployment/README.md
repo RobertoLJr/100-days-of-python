@@ -1,4 +1,4 @@
-# Day 68 Project: Fully-fledged Blog Website
+# Day 71 Project: Web Application Deployment
 
 To properly deploy this web application, the project has its own repository.
 
