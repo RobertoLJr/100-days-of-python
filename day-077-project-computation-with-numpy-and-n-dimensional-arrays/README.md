@@ -21,4 +21,3 @@ for plotting on a chart.
 - arrange()
 - random()
 - linspace()
-- 
