@@ -1,7 +1,5 @@
 # Morse Code Converter
 
-[Visualise the implementation in its own repository](https://github.com/RobertoLJr/morse-code-converter).
-
 ## Concept
 
 This program functions as a simple text-based [Morse Code](https://en.wikipedia.org/wiki/Morse_code) Converter
