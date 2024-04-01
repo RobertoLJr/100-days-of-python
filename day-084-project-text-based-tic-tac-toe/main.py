@@ -19,9 +19,14 @@ if view_rules == 'y':
           "4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a "
           "tie.\n")
 
+
 board = Board()
 p1 = Player("Player 1", "X")
 p2 = Player("Player 2", "O")
+
+n_players = int(input("How many players will play the game (1/2)? "))
+if n_players == 1:
+    p2.toggle_ai()
 
 turn = 1
 current_player = p1
@@ -74,7 +79,13 @@ while not is_game_over:
         print(row)
     print(f"CURRENT PLAYER: {current_player.name} ({current_player.mark})")
 
-    pos = input("Place mark on row,column (example: 2,1 marks the position on row 2, column 1): ")
+    if current_player == p2 and p2.is_ai is True:
+        pos = p2.place_mark_as_ai()
+        while not is_valid_move(pos):
+            pos = p2.place_mark_as_ai()
+    else:
+        pos = input("Place mark on row,column (example: 2,1 marks the position on row 2, column 1): ")
+
     while not is_valid_move(pos):
         pos = input("Position invalid. Place mark on row,column (example: 2,1 marks the position on row 2, column 1): ")
 
